@@ -22,7 +22,7 @@ My goal is to continuously learn, grow, and make a positive impact through my wo
 #### How to reach me:
  - [Website](https://s-absen.goes2nobel.com/)
  - [Instagram](https://www.instagram.com/habibubaa/)
- - [Instagram](https://www.instagram.com/habib_designs/)
+ - [Instagram Portfolio](https://www.instagram.com/habib_designs/)
  - [Medium](https://medium.com/@habibubaa)
  - [LinkedIn](https://www.linkedin.com/in/habiburrahman-b8ba68175/)
  - [Behance](https://www.behance.net/habiburrahman257/)
