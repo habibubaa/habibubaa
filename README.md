@@ -20,10 +20,11 @@ My goal is to continuously learn, grow, and make a positive impact through my wo
 - [Learning React Native Repo](https://github.com/search?q=user%3Ayahyaqr+learn-reactnative)
 
 #### How to reach me:
- - [Website](https://yahyaqr.github.com/)
- - [Instagram](https://www.instagram.com/yahyaqr/?hl=id)
- - [Medium](https://medium.com/@yahyaqr)
- - [LinkedIn](https://www.linkedin.com/in/yahya-aqrom/)
+ - [Website](https://s-absen.goes2nobel.com/)
+ - [Instagram](https://www.instagram.com/habibubaa/)
+ - [Instagram](https://www.instagram.com/habib_designs/)
+ - [Medium](https://medium.com/@habibubaa)
+ - [LinkedIn](https://www.linkedin.com/in/habiburrahman-b8ba68175/)
 
 #### Skills/Interest:
 ![#](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
